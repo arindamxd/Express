@@ -1,12 +1,11 @@
 var express = require('express');
 var router = express.Router();
-var data = require('../videodata.json');
 
-/* GET home page. */
+/* GET about page. */
 router.get('/', function (req, res, next) {
-    res.render('index', {
+    res.render('about', {
         title: 'Express',
-        videodata: data
+        name: 'Arindam Karmakar'
     });
 });
 
