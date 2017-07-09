@@ -1,4 +1,4 @@
-![](http://https://softwareengineeringdaily.com/wp-content/uploads/2015/08/nodejs_logo_green.jpg)
+![](https://softwareengineeringdaily.com/wp-content/uploads/2015/08/nodejs_logo_green.jpg)
 
 # Express
 NodeJS Web Development
